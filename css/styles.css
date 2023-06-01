@@ -59,7 +59,7 @@ main {
 }
 
 .promocion-container {
-    background-image: url("/img/delivery.jpg");
+    background-image: url("../img/delivery.jpg");
     width: 490px;
     height: 350px;
     border-radius: 5px;
